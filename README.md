@@ -23,5 +23,13 @@ I'm releasing the data as public domain. Feel free to use it for any purpose.
 * `labels` Folder : It conatins labelling of blood cells across three classes: `WBC` (white blood cells), `RBC` (red blood cells), and `Platelets`..
 
 
+Example of blood cell: 
 
-It's not required to provide attribution, but it'd be nice! :)
+1) ![BloodImage_00002_jpg rf 3f628ac8c9a3cccac2926e36a29d7eb5](https://user-images.githubusercontent.com/56868253/135814546-a95dd88c-f785-4154-a74d-13c3e494e61f.jpg)
+2) ![BloodImage_00009_jpg rf 021700395b3abd494873446f52e302fd](https://user-images.githubusercontent.com/56868253/135814617-da166eb2-90ef-46a3-9fe4-4d5d6e196df6.jpg)
+
+
+
+
+
+# Happy learning ML !
